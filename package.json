@@ -1,0 +1,12 @@
+{
+  "name": "dogstock",
+  "version": "1.0.0",
+  "description": "Case de Estágio da MindGroup - Esta é uma aplicação de estoque de produtos para fins de desafio técnico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
